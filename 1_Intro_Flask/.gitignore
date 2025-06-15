@@ -1,0 +1,16 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Archivos de configuración del sistema
+.DS_Store
+
+# Archivos de entorno
+.env
+
+# Archivos de log o temporales
+*.log
+*.sqlite3
